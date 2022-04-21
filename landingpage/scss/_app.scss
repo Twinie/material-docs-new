@@ -1775,9 +1775,6 @@ h4{
             ul{
                 li{
                     list-style: none !important;
-                    // a:hover{
-                    //  border-left: 3px solid $white !important;
-                    // }
                     .side-link{
                         margin-bottom: 8px;
                         color: #607d8b;
@@ -1785,9 +1782,6 @@ h4{
                         font-size: 15px;
                         font-weight: 400;
                         opacity: 0.9;
-                    //    &:hover{
-                    //        border-left:3px solid $white;
-                    //    }
                         &.active{
                             background: $themecolor;
                             color: #fff;
